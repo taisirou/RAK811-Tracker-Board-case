@@ -9,3 +9,7 @@ https://grabcad.com/library/rak811-tracker-with-add-on-board-1
 <img src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/285344/3019184d-873e-71b0-6af8-2114303043ac.jpeg" alt="" width="300" height="">
 
 Topの3Dデータを公開しています。
+
+必要部品
+φ2　L=7タッピングネジ2本
+タッピングネジ1本(適切な小ねじを探すこと）
